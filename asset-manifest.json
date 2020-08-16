@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/student-management/static/css/main.54f74775.chunk.css",
+    "main.js": "/student-management/static/js/main.3b27da73.chunk.js",
+    "main.js.map": "/student-management/static/js/main.3b27da73.chunk.js.map",
+    "runtime-main.js": "/student-management/static/js/runtime-main.0bc48b10.js",
+    "runtime-main.js.map": "/student-management/static/js/runtime-main.0bc48b10.js.map",
+    "static/css/2.04ff9426.chunk.css": "/student-management/static/css/2.04ff9426.chunk.css",
+    "static/js/2.6a32c7cb.chunk.js": "/student-management/static/js/2.6a32c7cb.chunk.js",
+    "static/js/2.6a32c7cb.chunk.js.map": "/student-management/static/js/2.6a32c7cb.chunk.js.map",
+    "index.html": "/student-management/index.html",
+    "precache-manifest.ebc4e3daa92625e29fc5049f220b7eb7.js": "/student-management/precache-manifest.ebc4e3daa92625e29fc5049f220b7eb7.js",
+    "service-worker.js": "/student-management/service-worker.js",
+    "static/css/2.04ff9426.chunk.css.map": "/student-management/static/css/2.04ff9426.chunk.css.map",
+    "static/css/main.54f74775.chunk.css.map": "/student-management/static/css/main.54f74775.chunk.css.map",
+    "static/js/2.6a32c7cb.chunk.js.LICENSE.txt": "/student-management/static/js/2.6a32c7cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bc48b10.js",
+    "static/css/2.04ff9426.chunk.css",
+    "static/js/2.6a32c7cb.chunk.js",
+    "static/css/main.54f74775.chunk.css",
+    "static/js/main.3b27da73.chunk.js"
+  ]
+}
